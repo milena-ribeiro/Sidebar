@@ -1,3 +1,3 @@
-# Sidebar
+# Desafio "Sidebar" - Rocketseat
 
-**Objetivo**
+
